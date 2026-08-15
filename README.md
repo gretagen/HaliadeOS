@@ -1,3 +1,5 @@
-Zerene OS is a hybrid imperative-declarative distribution designed for init freedom :
+# Zerene OS is a hybrid imperative-declarative distribution designed for init freedom :
 
-DOCUMENTATION : https://docs.google.com/document/d/13Y1Nc5BeCDq-cSHaKAhGze4gk9mjTSCp3a0I2inauXk/edit?usp=sharing
+Install Guide / Documentation is in "documentation.md"
+
+<img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
