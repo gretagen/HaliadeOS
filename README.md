@@ -1,6 +1,6 @@
 # Zerene OS is a hybrid imperative-declarative distribution designed for init freedom :
 
-Install Guide / Documentation is in "documentation.md"
+Install Guide / Documentation is in [documentation.md]
 
 (IT IS NOT RECOMMEND TO MAIN THIS DISTRO AT THE MOMENT DUE TO IT'S INSTABILITY, WE ARE WORKING ON MAKING IT MORE STABLE AND DAILY DRIVABLE, THIS ISO IS RECOMMENDED TO TEST IN A VIRTUAL MACHINE BEFORE ANY INSTALLATION ON REAL HARDWARE, YOU HAVE BEEN WARNED!)
 
