@@ -1,7 +1,9 @@
 # Zerene OS 
 
 Documentation : [documentation.md](https://github.com/gretagen/Zerene-OS/blob/main/documentation.md)
+
 Questions and Answers : [QnA.md](https://github.com/gretagen/Zerene-OS/blob/main/QnA.md)
+
 Discord of the community : https://discord.gg/SyFM6CcHKa
 
 (IT IS NOT RECOMMENDED TO MAIN THIS DISTRO AT THE MOMENT DUE TO IT'S INSTABILITY AND STILL NEW STATE, WE ARE WORKING ON MAKING IT MORE STABLE AND DAILY DRIVABLE, THE PROVIDED ISOS ARE RECOMMENDED TO TEST IN A VIRTUAL MACHINE BEFORE ANY INSTALLATION ON REAL HARDWARE, YOU HAVE BEEN WARNED!)
