@@ -6,6 +6,8 @@ Questions and Answers : [QnA.md](https://github.com/gretagen/Zerene-OS/blob/main
 
 Discord of the community : https://discord.gg/SyFM6CcHKa
 
+Current version : unstable 1.0 (lots of issues, preview)
+
 (IT IS NOT RECOMMENDED TO MAIN THIS DISTRO AT THE MOMENT DUE TO IT'S INSTABILITY AND STILL NEW STATE, WE ARE WORKING ON MAKING IT MORE STABLE AND DAILY DRIVABLE, THE PROVIDED ISOS ARE RECOMMENDED TO TEST IN A VIRTUAL MACHINE BEFORE ANY INSTALLATION ON REAL HARDWARE, YOU HAVE BEEN WARNED!)
 
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
