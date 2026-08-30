@@ -3,7 +3,7 @@
 # How can I develop for Zerene OS?
 
  -- You can not be an "active developer" for Zerene OS as it's philosophy contains
- "worked on and made by a single person" however, you can contribute to it in multiple ways.
+ "worked on and made by a single person, Gretagen" however, you can contribute to it in multiple ways.
 
 # How can I contribute to Zerene OS?
 
