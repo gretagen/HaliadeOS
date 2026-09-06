@@ -1,4 +1,4 @@
-# Zerene OS 
+# Heliade OS 
 
 Documentation : [documentation.md](https://github.com/gretagen/Zerene-OS/blob/main/documentation.md)
 
@@ -13,8 +13,7 @@ Current version : unstable 1.0 (lots of issues, preview)
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
 # About this distribution
-
-Zerene OS is a strictly universal imperative-declarative linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
+Heliade OS is a strictly universal imperative-declarative linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
 
 Some features of Zerene OS include :
 
