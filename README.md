@@ -15,7 +15,7 @@ Current version : unstable 1.0 (lots of issues, preview)
 # About this distribution
 Heliade OS is a strictly universal imperative-declarative linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
 
-Some features of Zerene OS include :
+Some features of Heliade OS include :
 
 -- Subspaces (allows you to use other distros in isolated environments, along with merging their packages to the actual system)
 
