@@ -22,3 +22,4 @@ Thesh shell : https://github.com/gretagen/thesh
 Init swapping : NOT AVAILABLE (yet)
 Kernel Generator : https://github.com/gretagen/genkernel
 Capture feature : https://github.com/gretagen/Capture
+Bootstrapper : https://github.com/gretagen/zstrappa
