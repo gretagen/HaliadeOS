@@ -13,7 +13,7 @@ Current version : unstable 1.0 (lots of issues, preview)
 <img width="500" height="500" alt="image" src="https://github.com/user-attachments/assets/a845ebd6-8445-4486-adb5-d05146d3d7f1" />
 
 # About this distribution
-Haliade OS is a strictly universal imperative-declarative linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
+Haliade OS is a strictly universal imperative-declarative Linux distribution that is designed to be fast, easy to get used to, and is systemd-free, it is worked on by a single developer, along with some contributors.
 
 Some features of Heliade OS include :
 
@@ -21,7 +21,7 @@ Some features of Heliade OS include :
 
 -- Hybrid usage (allows you to either declaratively configure the whole system or use it normally like any other imperative distro)
 
--- Reproducibility (With easy home management so you can reproduce your own dotfiles and a system config so you can reproduce your system on any Zerene machine)
+-- Reproducibility (With easy home management so you can reproduce your own dotfiles and a system config so you can reproduce your system on any Haliade machine)
 
 -- Generations (allows you to rollback if your system breaks)
 
